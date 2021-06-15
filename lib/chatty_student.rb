@@ -9,7 +9,7 @@ def hello
 
     def raise_hand
         10.times do
-          hello
+          super
         end
     end
 
